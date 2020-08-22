@@ -6,7 +6,7 @@ Angular 10 with Django, implemented CRUD operation. Angular-Django-boilerplate
 1. Install Angular latest version
   - https://www.javatpoint.com/angular-8-installation
 2. Get current project on your local system using git.
-    - git clone "project_name"</b>
+    - git clone https://github.com/jay10prajapati/AngularDjangoCRUDProj.git
 3. go to project folder and run following cmd.
     - npm install
 4. Check if is setup properly by following cmd.
